@@ -1,0 +1,28 @@
+body {
+	font-family: 'Lato', sans-serif;
+	color: #747704;
+	font-weight:300;
+}
+
+hr
+{
+    background-color: #BCBBBB;
+    border: 0 none;
+    height: 1px;
+}
+
+img, embed, object, video {
+	max-width:100%;
+}
+
+.text-light {
+	color: #BCBBBB;
+}
+
+.text-thin {
+	font-weight: 100;
+}
+
+.title-logo{
+	margin-top: 15px;
+}
